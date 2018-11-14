@@ -3,6 +3,8 @@ Lock screen
 
 Add a lock screen page to laravel-admin.
 
+[中文介绍](https://laravel-admin.org/posts/24)
+
 ## Screenshots
 
 ![wx20181114-232541](https://user-images.githubusercontent.com/1479100/48492459-c720f680-e864-11e8-934a-932d287479c4.png)
