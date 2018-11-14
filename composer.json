@@ -1,14 +1,14 @@
 {
     "name": "laravel-admin-ext/lock-screen",
-    "description": "description...",
+    "description": "Lock-screen page for laravel-admin",
     "type": "library",
-    "keywords": ["laravel-admin", "extension"],
+    "keywords": ["laravel-admin", "extension", "lock screen"],
     "homepage": "https://github.com/laravel-admin-ext/lock-screen",
     "license": "MIT",
     "authors": [
         {
             "name": "z-song",
-            "email": "zosong126.com"
+            "email": "zosong@126.com"
         }
     ],
     "require": {
